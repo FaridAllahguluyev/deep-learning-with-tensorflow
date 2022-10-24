@@ -1,7 +1,3 @@
 # deep-learning-with-tensorflow
+Stock prediction application using tensorflow
 ASOIU Task
-
-#TEAM MEMBERS:
-1.ORKHAN MIRZEZADE
-2.FARID ALLAHQULUYEV
-3.TALIB NABIYEV
